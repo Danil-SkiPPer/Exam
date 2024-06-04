@@ -1,0 +1,5 @@
+Rand element of array [2]: 25
+Rand element of array [4]: 80
+Rand element of array [6]: 81
+Rand element of array [8]: 93
+Rand element of array [10]: 91

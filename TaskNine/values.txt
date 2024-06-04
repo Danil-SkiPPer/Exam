@@ -1,0 +1,5 @@
+Value of struct [1]: 1
+Value of struct [2]: 2
+Value of struct [3]: 3
+Value of struct [4]: 4
+Value of struct [5]: 5

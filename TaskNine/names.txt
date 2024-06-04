@@ -1,0 +1,5 @@
+Name of struct [1]: dan  
+Name of struct [2]: man  
+Name of struct [3]: sam  
+Name of struct [4]: rex  
+Name of struct [5]: ten  

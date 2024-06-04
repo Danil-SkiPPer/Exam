@@ -1,0 +1,5 @@
+Name of struct [1]: q  value of struct [1]: 1
+Name of struct [2]: w  value of struct [2]: 2
+Name of struct [3]: e  value of struct [3]: 3
+Name of struct [4]: r  value of struct [4]: 4
+Name of struct [5]: t  value of struct [5]: 5

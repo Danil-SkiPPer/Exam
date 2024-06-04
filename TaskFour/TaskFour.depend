@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717497888 source:d:\code\c\examprog\taskfour\main.c
+	<stdio.h>
+	<stdlib.h>
+

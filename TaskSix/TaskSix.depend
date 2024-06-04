@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1717501526 source:d:\code\c\examprog\tasksix\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1717500993 d:\code\c\examprog\tasksix\main.h
+	<windows.h>
+

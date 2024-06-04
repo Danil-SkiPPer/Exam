@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717493827 source:d:\code\c\examprog\taskone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

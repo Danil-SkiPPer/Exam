@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1717500424 source:d:\code\c\examprog\taskfive\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tasklib.h"
+
+1717499735 d:\code\c\examprog\taskfive\tasklib.h
+
+1717500242 source:d:\code\c\examprog\taskfive\tasklib.c
+	<stdio.h>
+	<stdlib.h>
+	"tasklib.h"
+

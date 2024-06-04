@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1717495411 source:d:\code\c\examprog\tasktwo\main.c
+	<stdio.h>
+	<stdlib.h>
+
